@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExtractMetadataDiff": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\sreerenj.gopimohanan\\Downloads\\metadata_new\\MetaData6.xml\" \"C:\\Users\\sreerenj.gopimohanan\\Downloads\\metadata_old\\MetaData6.xml\" \"D:\\Extra\\Test.xml\""
+    }
+  }
+}
